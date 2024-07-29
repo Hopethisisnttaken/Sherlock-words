@@ -9,6 +9,7 @@
 
 ### Project overview:
 
+<img width="1754" alt="Screenshot 2024-07-29 at 17 56 03" src="https://github.com/user-attachments/assets/23621b5c-251f-43f2-868a-0d9c6c656ec6">
 
 The aim of this project is to explore the word distibutions of sherlock holmes books and their counterpart on the BBC TV series Sherlock. Starting with The Hound of the Baskerville.
 So far I extracted to frequency of appearnces of each word in both the book and the episode in the series, and created a dashboard to vizualize it. 
